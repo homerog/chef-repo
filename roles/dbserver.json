@@ -6,5 +6,6 @@
 	"default_attributes": {
 	},
 	"cookbook_versions": {
-	"example": "= 1.0.0"
+	    "example": "= 1.0.0"
+	}
 }
