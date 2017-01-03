@@ -1,10 +1,10 @@
 {
-	"name" : "DB",
-	"description" : "DB Role",
-	"chef_type" : "role",
-	"json_class" : "Chef::Role",
-	"default_attributes" : {
+	"name": "DB",
+	"description": "DB Role",
+	"chef_type": "role",
+	"json_class": "Chef::Role",
+	"default_attributes": {
 	},
-	"cookbook_versions" : {
-	"example" : "=1.0.0"
+	"cookbook_versions": {
+	"example": "= 1.0.0"
 }
