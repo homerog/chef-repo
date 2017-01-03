@@ -1,0 +1,11 @@
+{
+	"name" : "Dev",
+	"description" : "Development environment",
+	"chef_type" : "environment",
+	"json_class" : "Chef::Environment",
+	"default_attributes" : {
+	},
+	"cookbook_versions" : {
+	"example" : "=1.0.0"
+	}
+}
