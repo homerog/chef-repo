@@ -1,11 +1,11 @@
 {
-	"name" : "Prod",
-	"description" : "Production environment",
-	"chef_type" : "environment",
-	"json_class" : "Chef::Environment",
-	"default_attributes" : {
+	"name": "Prod",
+	"description": "Production environment",
+	"chef_type": "environment",
+	"json_class": "Chef::Environment",
+	"default_attributes": {
 	},
-	"cookbook_versions" : {
-	"example" : "=1.0.0"
+	"cookbook_versions": {
+	"example": "= 1.0.0"
 	}
 }
